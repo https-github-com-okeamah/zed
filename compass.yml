@@ -1,0 +1,16 @@
+name: zed
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/17d95142-7768-4796-bc52-00f58a874ee1
+description: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/zed
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
